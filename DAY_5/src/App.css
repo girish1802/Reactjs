@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito", sans-serif;
+
+} 
+/* header  */
+ #head{
+   
+    text-align: center;
+
+    color: #F6FB7A ;
+    background-color:#73BBA3;
+ }
+ /* Note */
+ .note{
+    
+    align-items: center;
+    
+    
+    
+ }
+ #box{
+   
+    padding:20px;
+    box-shadow: 5px 10px 8px rgba(0, 0, 0, 0.2);
+    color: #F6FB7A ; ;
+
+ }
